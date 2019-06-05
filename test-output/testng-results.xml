@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54" started-at="2019-05-16T13:41:16Z" finished-at="2019-05-16T13:41:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54" started-at="2019-05-16T13:41:16Z" finished-at="2019-05-16T13:41:16Z">
+      <class name="WebdriverBasic.WebdriverBasic.TestNGa">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="launchBrowser" is-config="true" duration-ms="21" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="deleteAllCookies()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="deleteAllCookies" is-config="true" duration-ms="1" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="enterURL" is-config="true" duration-ms="0" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="login()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="login" is-config="true" duration-ms="1" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="homePageHeaderTest()[pri:1, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="homePageHeaderTest" duration-ms="13" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageHeaderTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="logout" is-config="true" duration-ms="0" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="homePageUserInfoTest()[pri:2, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="homePageUserInfoTest" duration-ms="1" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageUserInfoTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="login" is-config="true" duration-ms="0" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="logout" is-config="true" duration-ms="0" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="login" is-config="true" duration-ms="0" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="homePageTitleTest()[pri:3, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="homePageTitleTest" duration-ms="3" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="logout" is-config="true" duration-ms="0" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="homePageSearchTest()[pri:4, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="homePageSearchTest" duration-ms="1" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageSearchTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="login" is-config="true" duration-ms="0" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="deleteUser()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="deleteUser" is-config="true" duration-ms="0" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="logout" is-config="true" duration-ms="0" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeDBConnection()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="closeDBConnection" is-config="true" duration-ms="1" started-at="2019-05-16T06:41:16Z" finished-at="2019-05-16T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBConnection -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:WebdriverBasic.WebdriverBasic.TestNGa@3834d63f]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2019-05-16T06:41:17Z" finished-at="2019-05-16T06:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- WebdriverBasic.WebdriverBasic.TestNGa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
